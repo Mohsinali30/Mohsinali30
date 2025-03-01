@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohsin Alee</h1>
 
 <div align="center">
-  <img src="screenshot/pic1.png" alt="Application Screenshot" width="600"/>
+  <img src="" alt="Application Screenshot" width="600"/>
 </div>
 <h3 align="center">A passionate Mobile App development, from Pakistan and also have good knowledge of Dart, C++, Python and MSSQL</h3>
 
