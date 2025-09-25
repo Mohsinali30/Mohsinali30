@@ -3,7 +3,7 @@
 <div align="center">
   <img src="" alt="Application Screenshot" width="600"/>
 </div>
-<h3 align="center">A passionate Mobile App development, from Pakistan and also have good knowledge of Dart, C++, Python and MSSQL</h3>
+<h3 align="center">A passionate Mobile App development, from Pakistan and also have good knowledge of Flutter, Dart, C++, Python and MSSQL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinali30&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinali30" /> </p>
 
