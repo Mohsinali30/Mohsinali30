@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="" alt="<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/44740fe4-33a6-474b-8ce2-70380ba2abd1" />
-" width="600"/>
+" width="900"/>
 </div>
 <h3 align="center">A passionate Mobile App development, from Pakistan and also have good knowledge of Flutter, Dart, C++, Python and MSSQL</h3>
 
