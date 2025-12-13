@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohsin Alee</h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d5626fe0-4480-4705-b030-6e86781c7efc" width="600" alt="image" />
+  <img src="https://github.com/user-attachments/assets/d5626fe0-4480-4705-b030-6e86781c7efc" width="900" alt="image" />
 </div>
 <h3 align="center">A passionate Mobile App development, from Pakistan and also have good knowledge of Flutter, Dart, C++, Python and MSSQL</h3>
 
